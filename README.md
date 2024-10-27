@@ -51,8 +51,8 @@ Each person must select one unique project.
         <b>d)</b> Have DB service ready/runing on cloud. <br>
         <b>e)</b> Show that your project runs with real IP on the cloud. <br>
       </td>
-      <td>15 November 2024<br></td>
-      <td><a href="pro2.pdf">Project2</a></td>
+      <td>29 November 2024<br></td>
+      <td><a href="pro3.pdf">Project3</a></td>
     </tr>
         <tr>
       <td>4</td>
@@ -64,10 +64,18 @@ Each person must select one unique project.
         <b>d)</b> Pull your app and DB in container on cloud using docker-compose.<br>
         <b>e)</b> Show that your project runs with real IP on the cloud. <br>
       </td>
-      <td>15 November 2024<br></td>
-      <td><a href="pro2.pdf">Project2</a></td>
+      <td>13 December 2024<br></td>
+      <td><a href="pro4.pdf">Project4</a></td>
     </tr>
-    
+            <tr>
+      <td>4</td>
+      <td><b>Microservice architecture</b></td>
+      <td>
+        <b>a)</b> To be announced. <br>
+      </td>
+      <td>27 December 2024<br></td>
+      <td><a href="pro5.pdf">Project5</a></td>
+    </tr>
   </body>
 </table>
 
