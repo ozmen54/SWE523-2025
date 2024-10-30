@@ -64,7 +64,7 @@ Each person must select one unique project.
         <b>c)</b> Create a jar (or zip for .Net Core) and containerized app using Docker. Push your app on dockerhub.<br>
         <b>d)</b> Pull your app and DB in container on cloud using docker-compose.<br>
         <b>e)</b> Install and set up a reverse proxy web server using Nginx.<br>
-        <b>r)</b> Show that your project runs with real IP on the cloud. <br>
+        <b>f)</b> Show that your project runs with real IP on the cloud. <br>
       </td>
       <td>13 December 2024<br></td>
       <td><a href="pro4.pdf">Project4</a></td>
