@@ -73,7 +73,17 @@ Each person must select one unique project.
       <td>5</td>
       <td><b>Microservice architecture</b></td>
       <td>
-        <b>a)</b> To be announced. <br>
+        <b>a)</b> Create Dockerfiles and docker-compose.yaml in your local computer along with your project (services). These will generate containerized app and organize the containers interactions  <br>
+<b>b)</b> After completing coding and testing of your project in local computer, obtain a jar files and containerized services using proper dockerfiles.<br>
+<b>c)</b> Push your dockerized apps (docker images) to the DockerHub. <br>
+<b>d)</b> Create an EC2 instance on the AWS with minimum settings and Linux OS.<br>
+<b>e)</b> Install Docker tools on EC2.<br>
+<b>f)</b> Ftp the docker-compose.yaml files to the EC2 instance.<br>
+<b>g)</b> Start up first the separated databases using a compose file by fetching from docker-hub as shown in the class.<br>
+<b>h)</b> Run docker-compose command with your “docker-compose.yaml” file to start your micro-services up.<br>
+<b>i)</b> Observe that required service images are pulled form the hub and starts up correctly.<br>
+<b>j)</b> Install Nginx and configure it so the external port 80 will be forwarded to proper services.<br>
+<b>k)</b> Show that your application is accessible from remote browser or postman, and everything works properly.
       </td>
       <td>27 December 2024<br></td>
       <td><a href="pro5.pdf">Project5</a></td>
