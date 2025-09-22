@@ -52,7 +52,7 @@ Each person must select one unique project.
         <b>e)</b> Install and set up a reverse proxy web server using Nginx.<br>
         <b>f)</b> Show that your project runs with real IP on the cloud. <br>
       </td>
-      <td>28 Nov 2025<br></td>
+      <td>24 Nov 2025<br></td>
       <td><a href="pro3.pdf">Project3</a></td>
     </tr>
         <tr>
@@ -66,7 +66,7 @@ Each person must select one unique project.
         <b>e)</b> Install and set up a reverse proxy web server using Nginx.<br>
         <b>f)</b> Show that your project runs with real IP on the cloud. <br>
       </td>
-      <td>13 December 2024<br></td>
+      <td>5 Dec 2025<br></td>
       <td><a href="pro4.pdf">Project4</a></td>
     </tr>
             <tr>
