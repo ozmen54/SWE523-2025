@@ -17,7 +17,7 @@ Each person must select one unique project.
   <body>
     <tr>
       <td>1</td>
-      <td><b>Code-first web application development.</b></td>
+      <td><b>Monolithic web application</b></td>
       <td>
         <b>a)</b> Build the app using Java 17, Spring Boot freamework and Maven build tool. (You can also use other technologies, such as .Net Core)<br> 
         <b>b)</b> Use ORM (e.g. Hibernate-JPA) to associate your views with DB tables. Create entity classes properly in your model section (Use Lombok if decided Spring Boot).<br>
