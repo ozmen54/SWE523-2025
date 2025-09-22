@@ -25,7 +25,7 @@ Each person must select one unique project.
         <b>d)</b> Use Thymeleaf (or Razor) template engine for sending objects to your views.<br>
         <b>e)</b> Show that your application runs as required.
       </td>
-      <td>1 November 2024 <br></td>
+      <td>17 Oct 2025<br></td>
       <td><a href="pro1.pdf">Project1</a></td>
     </tr>
     <tr>
@@ -38,7 +38,7 @@ Each person must select one unique project.
         <b>d)</b> Show that the user image file uploading and displaying them on related web pages work. <br>
         <b>e)</b> Show that your application runs as expected.
       </td>
-      <td>15 November 2024<br></td>
+      <td>7 Nov 2025<br></td>
       <td><a href="pro2.pdf">Project2</a></td>
     </tr>
     <tr>
@@ -52,7 +52,7 @@ Each person must select one unique project.
         <b>e)</b> Install and set up a reverse proxy web server using Nginx.<br>
         <b>f)</b> Show that your project runs with real IP on the cloud. <br>
       </td>
-      <td>29 November 2024<br></td>
+      <td>28 Nov 2025<br></td>
       <td><a href="pro3.pdf">Project3</a></td>
     </tr>
         <tr>
@@ -85,7 +85,7 @@ Each person must select one unique project.
 <b>j)</b> Install Nginx and configure it so the external port 80 will be forwarded to proper services.<br>
 <b>k)</b> Show that your application is accessible from remote browser or postman, and everything works properly.
       </td>
-      <td>27 December 2024<br></td>
+      <td>26 Dec 2025<br></td>
       <td><a href="pro5.pdf">Project5</a></td>
     </tr>
   </body>
