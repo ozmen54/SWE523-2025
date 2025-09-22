@@ -17,7 +17,7 @@ Each person must select one unique project.
   <body>
     <tr>
       <td>1</td>
-      <td><b>Monolithic web application</b></td>
+      <td><b>Monolithic web application with Repository and service layers</b></td>
       <td>
         <b>a)</b> Build the app using Java 17, Spring Boot freamework and Maven build tool. (You can also use other technologies, such as .Net Core)<br> 
         <b>b)</b> Use ORM (e.g. Hibernate-JPA) to associate your views with DB tables. Create entity classes properly in your model section (Use Lombok if decided Spring Boot).<br>
@@ -30,7 +30,7 @@ Each person must select one unique project.
     </tr>
     <tr>
       <td>2</td>
-      <td><b>Basic security with file upload.</b></td>
+      <td><b>Basic security and exception handling</b></td>
       <td>
         <b>a)</b> You will use Project 1 study as base for this project. However, the build tool will be Gradle in this time.<br>
         <b>b)</b> Create at least two roles: ADMIN and USER. <br>
@@ -43,7 +43,7 @@ Each person must select one unique project.
     </tr>
     <tr>
       <td>3</td>
-      <td><b>Publishing web project on cloud (AWS or Azure)</b></td>
+      <td><b>Publishing web project on cloud using FTP</b></td>
       <td>
         <b>a)</b> You will use Project 2 study as base for this project. <br>
         <b>b)</b> You need to create a cloud account either on AWS or AZURE. <br>
