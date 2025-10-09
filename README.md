@@ -19,14 +19,15 @@ Each person must select one unique project.
       <td>1</td>
       <td><b>Monolithic web application with Repository and service layers</b></td>
       <td>
-        <b>a)</b> Build the app using Java 17, Spring Boot freamework and Maven build tool. (You can also use other technologies, such as .Net Core)<br> 
+        <b>a)</b> Build REST application on your local computer. Each of you will work own problem: <a href="[pro2.pdf](https://docs.google.com/spreadsheets/d/1uG0YNNHJNzqnbyCnU6Za4h743QYwzGN4_yia9GjmAdc/edit?gid=0#gid=0)">Click to see</a>  
+        See .<br> 
         <b>b)</b> Use ORM (e.g. Hibernate-JPA) to associate your views with DB tables. Create entity classes properly in your model section (Use Lombok if decided Spring Boot).<br>
         <b>c)</b> Use either MySQL or PostgreSQL as database server.<br>
         <b>d)</b> Use Thymeleaf (or Razor) template engine for sending objects to your views.<br>
         <b>e)</b> Show that your application runs as required.
       </td>
       <td>17 Oct 2025<br></td>
-      <td><a href="pro1.pdf">Project1</a></td>
+      <td><a href="pro1_2025.pdf">Project1</a></td>
     </tr>
     <tr>
       <td>2</td>
