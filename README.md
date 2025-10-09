@@ -20,10 +20,11 @@ Each person must select one unique project.
       <td><b>Monolithic web application with Repository and service layers</b></td>
       <td>
         <b>a)</b> Build REST application on your local computer. Each of you will work own problem.<br> 
-        <b>b)</b> Use ORM (e.g. Hibernate-JPA) to associate your views with DB tables. Create entity classes properly in your model section (Use Lombok if decided Spring Boot).<br>
-        <b>c)</b> Use either MySQL or PostgreSQL as database server.<br>
-        <b>d)</b> Use Thymeleaf (or Razor) template engine for sending objects to your views.<br>
-        <b>e)</b> Show that your application runs as required.
+        <b>b)</b> Create repository and service layers.<br>
+        <b>c)</b> Use Redis for caching.<br>
+        <b>d)</b> Do local tests and FTP your application to cloud.<br>
+        <b>e)</b> Test your application and observe timing for http requests.<br>
+        <b>f)</b> Show that your application runs as required.
       </td>
       <td>17 Oct 2025<br></td>
       <td><a href="pro1_2025.pdf">Project1</a></td>
