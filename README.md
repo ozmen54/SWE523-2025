@@ -31,12 +31,12 @@ Each person must select one unique project.
     </tr>
     <tr>
       <td>2</td>
-      <td><b>Basic security and exception handling</b></td>
+      <td><b>OAuth2 security and File Upload</b></td>
       <td>
-        <b>a)</b> You will use Project 1 study as base for this project. However, the build tool will be Gradle in this time.<br>
-        <b>b)</b> Create at least two roles: ADMIN and USER. <br>
+        <b>a)</b> You will add OAuth2 authentication to your project using either Google or GitHub authentication server.<br>
+        <b>b)</b> There will be at least two roles: ADMIN and USER. <br>
         <b>c)</b> ADMIN is able to do all CRUD operations over the tables. USER will have limitted access. Create a logic based on your project topic and justify yourself. <br>
-        <b>d)</b> Show that the user image file uploading and displaying them on related web pages work. <br>
+        <b>d)</b> Show that a user can upoad an image file. <br>
         <b>e)</b> Show that your application runs as expected.
       </td>
       <td>7 Nov 2025<br></td>
