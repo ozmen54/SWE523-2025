@@ -58,7 +58,7 @@ Each person must select one unique project.
     </tr>
         <tr>
       <td>4</td>
-      <td><b>-</b></td>
+      <td><b>Microservice architecture with Docker-Compose</b></td>
       <td>
         <b>a)</b> - <br>
         <b>b)</b> - <br>
@@ -72,7 +72,7 @@ Each person must select one unique project.
     </tr>
             <tr>
       <td>5</td>
-      <td><b>Microservice architecture</b></td>
+      <td><b>Microservice architecture with Kubernetes</b></td>
       <td>
         <b>a)</b> Create Dockerfiles and docker-compose.yaml in your local computer along with your project (services). These will generate containerized app and organize the containers interactions  <br>
 <b>b)</b> After completing coding and testing of your project in local computer, obtain a jar files and containerized services using proper dockerfiles.<br>
