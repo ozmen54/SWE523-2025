@@ -60,12 +60,12 @@ Each person must select one unique project.
       <td>4</td>
       <td><b>Microservice architecture with Docker-Compose</b></td>
       <td>
-        <b>a)</b> Create Dockerfiles and docker-compose.yaml in your local computer along with your project (services). These will generate containerized app and organize the containers interactions. <br>
-        <b>b)</b> After completing coding and testing of your project in local computer, obtain a jar files and containerized services using proper dockerfiles. <br>
-        <b>c)</b> Start up first the separated databases using a compose file by fetching from docker-hub as shown in the class. <br>
-        <b>d)</b> Run docker-compose command with your “docker-compose.yaml” file to start your micro-services up. <br>
-        <b>e)</b> Use Postman or browser to show your application running as expected. <br>
-        <b>f)</b> - <br>
+        <b>a)</b> Re-design your project in micro-servise architecture as shown in <a href="fig4.pdf">Figure 4</a> <br>
+        <b>b)</b> Create Dockerfiles and docker-compose.yaml in your local computer along with your project (services). These will generate containerized app and organize the containers interactions.  <br>
+        <b>c)</b> After completing coding and testing of your project in local computer, obtain a jar files and containerized services using proper dockerfiles. <br>
+        <b>d)</b> Start up first the separated databases using a compose file by fetching from docker-hub as shown in the class. <br>
+        <b>e)</b> Run docker-compose command with your “docker-compose.yaml” file to start your micro-services up. <br>
+        <b>f)</b> Use Postman or browser to show your application running as expected. <br>
       </td>
       <td>12 Dec 2025<br></td>
       <td><a href="pro4.pdf">Project4</a></td>
