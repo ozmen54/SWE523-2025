@@ -94,7 +94,7 @@ Each person must select one unique project.
 
 
 ## General rules for project grading:
-* Each student is allowed 10 minutes to present their work.
+* Each student is allowed 20 minutes to present their work.
 * Students will be called to present their work based on a random number announced in the class. 
 * Students who do not show up at presentation will get 0 (zero) grade.
 
