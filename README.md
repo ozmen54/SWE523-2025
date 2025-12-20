@@ -72,7 +72,7 @@ Each person must select one unique project.
     </tr>
             <tr>
       <td>5</td>
-      <td><b>Microservice architecture with Kubernetes</b></td>
+      <td><b>Microservice architecture deployment with Kubernetes cluster</b></td>
       <td>
         <b>a)</b> -  <br>
 <b>b)</b> - <br>
