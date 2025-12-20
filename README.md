@@ -74,17 +74,12 @@ Each person must select one unique project.
       <td>5</td>
       <td><b>Microservice architecture deployment with Kubernetes cluster</b></td>
       <td>
-        <b>a)</b> -  <br>
-<b>b)</b> - <br>
-<b>c)</b> - <br>
-<b>d)</b> - <br>
-<b>e)</b> - <br>
-<b>f)</b> - <br>
-<b>g)</b> - <br>
-<b>h)</b> - <br>
-<b>i)</b> - <br>
-<b>j)</b> - <br>
-<b>k)</b> -
+        <b>a)</b> Obtain jar files, and then docker images for each service using proper dockerfiles. Name image files properly and have them ready in your local repository (no need to push them Docker Hub).<br>
+        <b>b)</b> Pull database server image before presentation into your local repository.<br>
+        <b>c)</b> Create 2 yaml files for each micro service: One for service app. and the other will be for service database. Use the same image for database server of three services. (PS: You can use the example yaml files given in Sabis.                 Modifying them for your project would be sufficient.)<br>
+        <b>d)</b> Presentations will be done on your local computer. Install and start minicube.<br>
+<b>e)</b> Start each service using “kubectl” command, for instance “> kubectl create -f service1.yaml”.<br>
+<b>f)</b> Test your application using Postman or convinient browser.<br>
       </td>
       <td>26 Dec 2025<br></td>
       <td><a href="pro5.pdf">Project5</a></td>
